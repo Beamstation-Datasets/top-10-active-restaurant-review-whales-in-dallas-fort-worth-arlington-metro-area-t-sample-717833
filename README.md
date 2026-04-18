@@ -9,9 +9,9 @@
 | Dataset ID | `717833` |
 | Location | Dallas-Fort Worth-Arlington, TX |
 | Category | Restaurants |
-| Full dataset size | 419 records |
-| Free sample size | 37 records (8.83%) |
-| Last export | 2026-04-07T19:19:28.645580+00:00 |
+| Full dataset size | 372 records |
+| Free sample size | 37 records (9.95%) |
+| Last export | 2026-04-15T00:26:51.210112+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-10-active-restaurant-review-whales-in-dallas-fort-worth-arlington-metro-area-t-sample-717833/releases/download/sample-latest/beamstation_717833_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
