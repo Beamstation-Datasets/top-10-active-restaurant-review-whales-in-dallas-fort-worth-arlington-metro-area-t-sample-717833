@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c8d31376-4e7b-4f95-9406-ed6665793679",
+  "export_job_id": "f3df8e86-1cb1-4be2-bfe2-1ac16931f623",
   "id_short": 717833,
-  "published_at": "2026-04-16T19:02:59Z",
+  "published_at": "2026-04-18T19:43:48Z",
   "repo_name": "top-10-active-restaurant-review-whales-in-dallas-fort-worth-arlington-metro-area-t-sample-717833",
   "sample_asset_name": "beamstation_717833_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/717833/beamstation_717833_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
   "sample_records": 37,
   "sample_sha256": "15acd7c9b27d7136b741715ee626ad49fb12862a25e01fcf70e1bb8c75ecc220",
   "sample_size_bytes": 155303,
-  "total_records": 419
+  "total_records": 372
 }
