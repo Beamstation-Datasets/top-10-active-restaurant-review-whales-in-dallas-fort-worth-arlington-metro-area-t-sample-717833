@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 10% of their local market for proven foot traffic and review volume within the last 30 days and a market scope of 10km. \n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 10% Active Restaurant Review Whales in Dallas-Fort Worth-Arlington Metro Area, TX, US",
-  "export_job_id": "c8d31376-4e7b-4f95-9406-ed6665793679",
+  "export_job_id": "f3df8e86-1cb1-4be2-bfe2-1ac16931f623",
   "github_org": "Beamstation-Datasets",
   "id_short": 717833,
   "location_name": "Dallas-Fort Worth-Arlington, TX",
   "location_type": "metro",
   "repo_name": "top-10-active-restaurant-review-whales-in-dallas-fort-worth-arlington-metro-area-t-sample-717833",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/717833/beamstation_717833_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
-  "sample_pct": 8.83,
+  "sample_pct": 9.95,
   "sample_records": 37,
   "sample_sha256": "15acd7c9b27d7136b741715ee626ad49fb12862a25e01fcf70e1bb8c75ecc220",
   "sample_size_bytes": 155303,
-  "total_records": 419,
-  "updated_at": "2026-04-07T19:19:28.645580+00:00"
+  "total_records": 372,
+  "updated_at": "2026-04-15T00:26:51.210112+00:00"
 }
